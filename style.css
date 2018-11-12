@@ -6,13 +6,14 @@ nav {
   background-color: yellow;
   height: 100px;
   margin-top: -10px;
-  position: fixed;
+  position: absolute;
   width: 100%;
 }
 
 section {
   margin: 0 auto;
   width: 60%;
+  padding-top: 20px;
 }
 
 h1 {
